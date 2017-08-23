@@ -1,0 +1,224 @@
+{
+  "station_locator_url": "http://www.afdc.energy.gov/afdc/locator/stations/",
+  "total_results": 17654,
+  "station_counts": {
+    "total": 44561,
+    "fuels": {
+      "E85": {
+        "total": 0
+      },
+      "ELEC": {
+        "total": 44561,
+        "stations": {
+          "total": 17654
+        }
+      },
+      "HY": {
+        "total": 0
+      },
+      "LNG": {
+        "total": 0
+      },
+      "BD": {
+        "total": 0
+      },
+      "CNG": {
+        "total": 0
+      },
+      "LPG": {
+        "total": 0
+      }
+    }
+  },
+  "fuel_stations": [
+    {
+      "access_days_time": "24 hours daily",
+      "cards_accepted": null,
+      "date_last_confirmed": "2016-12-13",
+      "expected_date": null,
+      "fuel_type_code": "ELEC",
+      "id": 80144,
+      "groups_with_access_code": "Public",
+      "open_date": null,
+      "owner_type_code": null,
+      "status_code": "E",
+      "station_name": "GEORGIA POWER",
+      "station_phone": "888-758-4389",
+      "updated_at": "2016-12-13T09:16:13Z",
+      "geocode_status": "200-9",
+      "latitude": 33.6925968,
+      "longitude": -85.1517936,
+      "city": "Bremen",
+      "intersection_directions": "BREMEN DC; Located near the front entrance Holiday Inn Express \nBREMEN L2; Located near the front entrance of the Holiday Inn Express ",
+      "plus4": null,
+      "state": "GA",
+      "street_address": "125 US-27",
+      "zip": "30110",
+      "bd_blends": null,
+      "e85_blender_pump": null,
+      "ev_connector_types": [
+        "J1772"
+      ],
+      "ev_dc_fast_num": 1,
+      "ev_level1_evse_num": null,
+      "ev_level2_evse_num": 2,
+      "ev_network": "ChargePoint Network",
+      "ev_network_web": "http://www.chargepoint.com/",
+      "ev_other_evse": null,
+      "hy_status_link": null,
+      "lpg_primary": null,
+      "ng_fill_type_code": null,
+      "ng_psi": null,
+      "ng_vehicle_class": null,
+      "ev_network_ids": {
+        "posts": [
+          "1:125611",
+          "1:125405"
+        ]
+      }
+    },
+    {
+      "access_days_time": "24 hours daily",
+      "cards_accepted": null,
+      "date_last_confirmed": "2016-12-13",
+      "expected_date": null,
+      "fuel_type_code": "ELEC",
+      "id": 80145,
+      "groups_with_access_code": "Public",
+      "open_date": null,
+      "owner_type_code": null,
+      "status_code": "E",
+      "station_name": "MONOGRAM RES",
+      "station_phone": "888-758-4389",
+      "updated_at": "2016-12-13T09:17:08Z",
+      "geocode_status": "GPS",
+      "latitude": 32.7882372,
+      "longitude": -96.8110536,
+      "city": "Dallas",
+      "intersection_directions": "VICTORY AVE; Left of garage entrance",
+      "plus4": null,
+      "state": "TX",
+      "street_address": "2425 Victory Ave",
+      "zip": "75219",
+      "bd_blends": null,
+      "e85_blender_pump": null,
+      "ev_connector_types": [
+        "J1772"
+      ],
+      "ev_dc_fast_num": null,
+      "ev_level1_evse_num": null,
+      "ev_level2_evse_num": 1,
+      "ev_network": "ChargePoint Network",
+      "ev_network_web": "http://www.chargepoint.com/",
+      "ev_other_evse": null,
+      "hy_status_link": null,
+      "lpg_primary": null,
+      "ng_fill_type_code": null,
+      "ng_psi": null,
+      "ng_vehicle_class": null,
+      "ev_network_ids": {
+        "posts": [
+          "1:124379"
+        ]
+      }
+    },
+    {
+      "access_days_time": "24 hours daily",
+      "cards_accepted": null,
+      "date_last_confirmed": "2016-12-13",
+      "expected_date": null,
+      "fuel_type_code": "ELEC",
+      "id": 80146,
+      "groups_with_access_code": "Public",
+      "open_date": null,
+      "owner_type_code": null,
+      "status_code": "E",
+      "station_name": "SANTA MONICA VW",
+      "station_phone": "888-758-4389",
+      "updated_at": "2016-12-13T09:44:08Z",
+      "geocode_status": "GPS",
+      "latitude": 34.0319317,
+      "longitude": -118.4756326,
+      "city": "Santa Monica",
+      "intersection_directions": "VW_422503_A; -",
+      "plus4": null,
+      "state": "CA",
+      "street_address": "2440 Santa Monica Blv",
+      "zip": "90404",
+      "bd_blends": null,
+      "e85_blender_pump": null,
+      "ev_connector_types": [
+        "J1772"
+      ],
+      "ev_dc_fast_num": null,
+      "ev_level1_evse_num": null,
+      "ev_level2_evse_num": 2,
+      "ev_network": "ChargePoint Network",
+      "ev_network_web": "http://www.chargepoint.com/",
+      "ev_other_evse": null,
+      "hy_status_link": null,
+      "lpg_primary": null,
+      "ng_fill_type_code": null,
+      "ng_psi": null,
+      "ng_vehicle_class": null,
+      "ev_network_ids": {
+        "posts": [
+          "1:104247"
+        ]
+      }
+    },
+    {
+      "access_days_time": "24 hours daily; EVgo network subscription and key fob required",
+      "cards_accepted": null,
+      "date_last_confirmed": "2016-12-13",
+      "expected_date": null,
+      "fuel_type_code": "ELEC",
+      "id": 80147,
+      "groups_with_access_code": "Public - Card key at all times",
+      "open_date": null,
+      "owner_type_code": null,
+      "status_code": "E",
+      "station_name": "Lazy Acres - Encinitas",
+      "station_phone": "877-455-3833",
+      "updated_at": "2016-12-13T11:00:03Z",
+      "geocode_status": "GPS",
+      "latitude": 33.0498123168945,
+      "longitude": -117.28881072998,
+      "city": "Encinitas",
+      "intersection_directions": null,
+      "plus4": null,
+      "state": "CA",
+      "street_address": "154 Encinitas Blvd.",
+      "zip": "92024",
+      "bd_blends": null,
+      "e85_blender_pump": null,
+      "ev_connector_types": [
+        "CHADEMO",
+        "J1772COMBO"
+      ],
+      "ev_dc_fast_num": 2,
+      "ev_level1_evse_num": null,
+      "ev_level2_evse_num": null,
+      "ev_network": "eVgo Network",
+      "ev_network_web": "https://www.evgonetwork.com/",
+      "ev_other_evse": null,
+      "hy_status_link": null,
+      "lpg_primary": null,
+      "ng_fill_type_code": null,
+      "ng_psi": null,
+      "ng_vehicle_class": null,
+      "ev_network_ids": {
+        "station": [
+          "eVgoFS202"
+        ],
+        "posts": [
+          "eVgoABBT53-HU1-2116-024-C|eVgoABBT53-HU1-2116-024-J"
+        ],
+        "ports": [
+          "eVgoABBT53-HU1-2116-024-C",
+          "eVgoABBT53-HU1-2116-024-J"
+        ]
+      }
+    }
+  ]
+}
